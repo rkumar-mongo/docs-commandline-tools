@@ -1,5 +1,6 @@
 # docs-commandline-tools
-This repository contains documentation for the MongoDB commandline tools (v4.4+)
+
+This repository contains documentation for the MongoDB Database Tools.
 
 This project is currently under construction. Please pardon our dust!
 
